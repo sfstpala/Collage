@@ -1,6 +1,7 @@
 
 from gi.repository import Gtk
 from collage.obj import Library
+from collage.gui import PhotoStack
 
 
 class Collage (object):
